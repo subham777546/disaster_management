@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/disaster_management/static/js/main.fc93e7c7.js",
+    "index.html": "/disaster_management/index.html",
+    "main.fc93e7c7.js.map": "/disaster_management/static/js/main.fc93e7c7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fc93e7c7.js"
+  ]
+}
